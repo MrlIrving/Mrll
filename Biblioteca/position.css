@@ -1,0 +1,17 @@
+body {
+    height: 300vh;
+}
+
+.container {
+    top: 100px;
+    position: sticky;
+    width: 400px;
+    height: 400px;
+    background-color: aqua;
+}
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: chartreuse;
+}

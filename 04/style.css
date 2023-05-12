@@ -1,0 +1,45 @@
+img {
+    width: 308px;
+    border-style: solid;
+    border-radius: 15px;
+}
+
+div {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: dodgerblue;
+
+}
+
+.texto2 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: dodgerblue;
+}
+
+#img2 {
+    width: 250px;
+}
+
+img {
+    text-align: center;
+}
+
+body {
+    background-color: #F0F8FF;
+}
+
+h1 {
+    color: dodgerblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+    font-size: large;
+}

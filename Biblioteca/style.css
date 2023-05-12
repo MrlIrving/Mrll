@@ -1,0 +1,43 @@
+body {
+    background-color: salmon;
+}
+
+h1 {
+    color: cadetblue; /*Cor do texto*/
+    text-align: center;
+
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: justify;
+
+}
+
+.texto {
+    color: aquamarine;
+}
+
+#titulo {
+    color: goldenrod;
+}
+
+a {
+    text-decoration: none;
+    font-size: 50px;
+    background-color: aqua;
+    color: black;
+    border-radius: 15px;
+    border-color: blue;
+    border-style: solid;
+    border-width: 10px;
+    padding: 10px 20px 30px 40px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+div {
+    text-align: center;
+}
